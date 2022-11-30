@@ -24,7 +24,7 @@ This project provides CLI functionality for image binarization via
 Use `go install` to install go-image-skeleton.
 
 ```shell
-go install github.com/danilovkiri/go-image-skeleton/cmd@latest
+go install -v github.com/danilovkiri/go-image-skeleton/cmd/go-image-skeleton@latest
 ```
 
 ## Usage
