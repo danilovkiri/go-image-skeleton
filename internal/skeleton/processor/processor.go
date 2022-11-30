@@ -1,7 +1,7 @@
 // Package processor implements neighbor set processing functionality
 package processor
 
-import "go-image-skeleton/internal/skeleton/neighbors"
+import "github.com/danilovkiri/go-image-skeleton/internal/skeleton/neighbors"
 
 // Processor implements attributes and methods for task processing
 type Processor struct {
